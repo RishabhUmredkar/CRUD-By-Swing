@@ -2,4 +2,4 @@
 Create 
 Retreive
 Update
-Display
+Delete
