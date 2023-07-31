@@ -1,5 +1,5 @@
 # CRUD-By-Swing
 Create 
-Retreive
+Retrieve
 Update
 Delete
